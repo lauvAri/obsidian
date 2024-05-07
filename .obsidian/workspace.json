@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "46d76ffc5308f64f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0060b521dc75b1e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "202951eac0ae84fd",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "img/Pasted image 20240425104511.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6736c73d6b9ed201",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cd2e19140f1dbdc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22cceedf9532c713",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c8a6ef8b60c3b2c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5fe4ccd15af544ff",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b70bd4f5b3a55858",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d1c3c78b7125991",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aaf42dc813c4e0ff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "img/Pasted image 20240425104511.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0e9667353b16026c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "img/Pasted image 20240425104511.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6a7c019e320738c3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9e404934fe4ad9d7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "img/Pasted image 20240425104511.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-weread-plugin:同步微信读书笔记": false,
+      "workspaces:管理工作区布局": false,
+      "random-note:开始漫游笔记": false
+    }
+  },
+  "active": "202951eac0ae84fd",
+  "lastOpenFiles": [
+    "img/Pasted image 20240425104209.png",
+    "img/Pasted image 20240425104511.png",
+    "img/Pasted image 20240425104604.png",
+    "img/Pasted image 20240427121125.png",
+    "img/Pasted image 20240427121216.png",
+    "img/Pasted image 20240427124835.png",
+    "img/Pasted image 20240427234120.png",
+    "img/Pasted image 20240428103210.png",
+    "img/Pasted image 20240428104655.png",
+    "img/Pasted image 20240428112115.png",
+    "img/Pasted image 20240428132344.png",
+    "JavaScript/浏览器/浏览器.md",
+    "JavaScript/浏览器/操作表单.md",
+    "JavaScript/标准对象/Date.md",
+    "数据结构/树.md",
+    "JavaScript/入门/Map和Set.md",
+    "JavaScript/入门/数组.md",
+    "Java学习/面向对象/继承.md",
+    "JavaScript/入门/字符串.md",
+    "JavaScript/入门/数据类型.md",
+    "JavaScript/入门/输出.md",
+    "Java学习/面向对象/类.md",
+    "公共关系案例/使命必达，同情常在——基于公共关系从业人员素质视角分析“丰县生育八孩女子”事件.md",
+    "公共关系案例/”丰县生育八孩女子“事件.md",
+    "JavaScript/面向对象编程/面向对象编程.md",
+    "摘录/史蒂夫·乔布斯传（修订版）.md",
+    "摘录/文学/地下室手记.md",
+    "摘录/1984.md",
+    "摘录/爱你就像爱生命.md",
+    "英语/日常积累/Vocabulary & Grammar.md",
+    "英语/英汉笔译/Translation.md",
+    "英语/日常积累/Band-6.md",
+    "JavaScript/浏览器/操作DOM/删除DOM.md",
+    "JavaScript/浏览器/操作DOM/更新DOM.md",
+    "JavaScript/浏览器/操作DOM/插入DOM.md",
+    "JavaScript/浏览器/操作DOM/操作DOM.md",
+    "未命名.canvas",
+    "未命名",
+    "img",
+    "摘录/文学",
+    "Untitled.canvas",
+    "大英赛",
+    "英汉笔译",
+    "translation"
+  ]
+}
