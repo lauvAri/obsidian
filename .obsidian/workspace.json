@@ -11,13 +11,28 @@
             "id": "202951eac0ae84fd",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "img/Pasted image 20240425104511.png"
+                "file": "数据结构/图.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "497ff6a2882fe161",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "格林公式.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b70bd4f5b3a55858",
@@ -83,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "img/Pasted image 20240425104511.png",
+                "file": "格林公式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "img/Pasted image 20240425104511.png",
+                "file": "格林公式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "img/Pasted image 20240425104511.png"
+                "file": "格林公式.md"
               }
             }
           }
@@ -131,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,10 +162,17 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "202951eac0ae84fd",
+  "active": "497ff6a2882fe161",
   "lastOpenFiles": [
-    "img/Pasted image 20240425104209.png",
+    "数据结构/哈夫曼树.md",
+    "摘录/追风筝的人.md",
+    "格林公式.md",
+    "数据结构/图.md",
+    "数据结构/二叉树.md",
+    "公共关系案例/”丰县生育八孩女子“事件.md",
+    "公共关系案例/使命必达，同情常在——基于公共关系从业人员素质视角分析“丰县生育八孩女子”事件.md",
     "img/Pasted image 20240425104511.png",
+    "img/Pasted image 20240425104209.png",
     "img/Pasted image 20240425104604.png",
     "img/Pasted image 20240427121125.png",
     "img/Pasted image 20240427121216.png",
@@ -157,7 +181,6 @@
     "img/Pasted image 20240428103210.png",
     "img/Pasted image 20240428104655.png",
     "img/Pasted image 20240428112115.png",
-    "img/Pasted image 20240428132344.png",
     "JavaScript/浏览器/浏览器.md",
     "JavaScript/浏览器/操作表单.md",
     "JavaScript/标准对象/Date.md",
@@ -169,8 +192,6 @@
     "JavaScript/入门/数据类型.md",
     "JavaScript/入门/输出.md",
     "Java学习/面向对象/类.md",
-    "公共关系案例/使命必达，同情常在——基于公共关系从业人员素质视角分析“丰县生育八孩女子”事件.md",
-    "公共关系案例/”丰县生育八孩女子“事件.md",
     "JavaScript/面向对象编程/面向对象编程.md",
     "摘录/史蒂夫·乔布斯传（修订版）.md",
     "摘录/文学/地下室手记.md",
@@ -179,10 +200,6 @@
     "英语/日常积累/Vocabulary & Grammar.md",
     "英语/英汉笔译/Translation.md",
     "英语/日常积累/Band-6.md",
-    "JavaScript/浏览器/操作DOM/删除DOM.md",
-    "JavaScript/浏览器/操作DOM/更新DOM.md",
-    "JavaScript/浏览器/操作DOM/插入DOM.md",
-    "JavaScript/浏览器/操作DOM/操作DOM.md",
     "未命名.canvas",
     "未命名",
     "img",
