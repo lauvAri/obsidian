@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ArrayList.md",
+                "file": "Java学习/ArrayList.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f195cdc1ad006e26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "离散数学/命题逻辑.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 294.5,
+    "collapsed": true
   },
   "right": {
     "id": "b70bd4f5b3a55858",
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ArrayList.md",
+                "file": "离散数学/命题逻辑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ArrayList.md",
+                "file": "离散数学/命题逻辑.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ArrayList.md"
+                "file": "离散数学/命题逻辑.md"
               }
             }
           },
@@ -170,10 +183,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3f44a512e3ef660e",
+  "active": "f195cdc1ad006e26",
   "lastOpenFiles": [
+    "高数A2/格林公式.md",
+    "Java学习/ArrayList.md",
+    "公共政策.md",
     "Java学习/面向对象/多态.md",
-    "ArrayList.md",
     "未命名",
     "Java学习/面向对象/类.md",
     "Java学习/面向对象/抽象.md",
@@ -184,7 +199,6 @@
     "JavaScript/函数/闭包Closure.md",
     "Vue",
     "JavaScript/浏览器/Promise.md",
-    "高数A2/格林公式.md",
     "JavaScript/入门/数据类型.md",
     "JavaScript/入门/iterable.md",
     "高数A2",
@@ -200,7 +214,6 @@
     "数据结构/哈夫曼树.md",
     "摘录/追风筝的人.md",
     "数据结构/图.md",
-    "数据结构/二叉树.md",
     "img/Pasted image 20240425104511.png",
     "img/Pasted image 20240425104209.png",
     "img/Pasted image 20240425104604.png",

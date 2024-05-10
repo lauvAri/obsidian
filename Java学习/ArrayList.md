@@ -19,7 +19,7 @@ ArrayList<String> list = new ArrayList<>(Arrays.asList(array));
 ```
 
 ```java
-//使用Array.asList()前先引入
+//使用Arrays.asList()前先引入
 import java.util.Arrays;
 ```
 
