@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5c49cfd19e41ded1",
+        "id": "734af6e64801aae5",
         "type": "tabs",
         "children": [
           {
-            "id": "19bd89ea7bc7ef90",
+            "id": "c6c055e55337e4f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java学习/面向对象/多态.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f44a512e3ef660e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java学习/ArrayList.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f195cdc1ad006e26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "离散数学/命题逻辑.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c2d96650485805f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "英语/日常积累/China Daily/An unexpected reencounter warms Xi's visit to Hungary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d3b6738f9a3ff727",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "英语/日常积累/China Daily/Improving key indicators signal positive outlook for China's economy.md",
+                "file": "高数A2/第一类曲面积分.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "英语/日常积累/China Daily/Improving key indicators signal positive outlook for China's economy.md",
+                "file": "高数A2/第一类曲面积分.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "英语/日常积累/China Daily/Improving key indicators signal positive outlook for China's economy.md",
+                "file": "高数A2/第一类曲面积分.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "英语/日常积累/China Daily/Improving key indicators signal positive outlook for China's economy.md"
+                "file": "高数A2/第一类曲面积分.md"
               }
             }
           },
@@ -206,19 +157,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d3b6738f9a3ff727",
+  "active": "c6c055e55337e4f3",
   "lastOpenFiles": [
+    "高数A2/第二类曲面积分.md",
+    "().md",
+    "高数A2/格林公式.md",
+    "高数A2/第一类曲面积分.md",
+    "公共政策.md",
+    "数据结构/排序与查找.md",
+    "Java学习/ArrayList.md",
+    "Java学习/面向对象/抽象.md",
     "英语/日常积累/China Daily/An unexpected reencounter warms Xi's visit to Hungary.md",
     "英语/日常积累/China Daily/Improving key indicators signal positive outlook for China's economy.md",
-    "英语/日常积累/China Daily",
-    "离散数学/命题逻辑.md",
-    "高数A2/格林公式.md",
-    "Java学习/ArrayList.md",
-    "公共政策.md",
     "Java学习/面向对象/多态.md",
-    "Java学习/面向对象/类.md",
-    "Java学习/面向对象/抽象.md",
+    "离散数学/命题逻辑.md",
     "Java学习/面向对象/继承.md",
+    "Java学习/面向对象/类.md",
+    "英语/日常积累/China Daily",
     "Vue/创建项目.md",
     "Vue/setup.md",
     "Vue/模板语法.md",
@@ -233,10 +188,6 @@
     "JavaScript/浏览器/操作DOM/插入DOM.md",
     "JavaScript/浏览器/操作DOM/操作DOM.md",
     "JavaScript/浏览器/AJAX.md",
-    "JavaScript/浏览器/操作文件.md",
-    "JavaScript/浏览器/浏览器.md",
-    "JavaScript/浏览器/浏览器对象.md",
-    "JavaScript/浏览器/操作表单.md",
     "img/Pasted image 20240425104511.png",
     "img/Pasted image 20240425104209.png",
     "img/Pasted image 20240425104604.png",
