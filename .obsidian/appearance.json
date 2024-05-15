@@ -1,7 +1,7 @@
 {
   "accentColor": "",
   "interfaceFontFamily": "微软雅黑",
-  "textFontFamily": "宋体,微软雅黑",
+  "textFontFamily": "Inter,微软雅黑",
   "monospaceFontFamily": "Consolas",
   "baseFontSizeAction": true,
   "baseFontSize": 15,
