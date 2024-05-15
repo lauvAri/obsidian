@@ -1,0 +1,29 @@
+- take the initiative
+	- 带头 take the lead
+	- We are **the** only power willing to **take** **the** **initiative** in the long struggle to end the war.
+	- 在旨在结束战争的长期斗争中，我们是惟一愿意首先采取行动的国家。
+- formidable
+	- 艰巨的
+	- We have a **formidable** task ahead of us.
+	- 强大的
+	- The elderly are a **formidable** force in any election.
+- affirm
+	- 断言
+	- I can **affirm** that no one will lose their job.
+	- 证实
+	- Everything I had accomplished seemed to **affirm** that opinion.
+	- 肯定
+	- In my opinion, in the appraisal of migrant workers, it is one-sided to **affirm** everything or to negate everything.
+	- 在我看来，对农民工的评价中，肯定一切或否定一切都是片面的。
+- domain
+	- 领域
+	- Physics used to be very much a male **domain**.
+	- domain name 域名
+- pledge
+	- 承诺 v. n.
+	- In the treaty both sides **pledge** to respect human rights.
+	- The government had retreated from its **pledge** to reduce class sizes.
+	- 政府已经改变了缩小班级规模的承诺。
+	- 抵押
+	- He asked her to **pledge** the house as security for a loan.
+	- 他要她抵押房子作为贷款担保。
