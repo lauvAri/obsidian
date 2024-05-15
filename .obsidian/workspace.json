@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "23-6-(一).md",
+                "file": "英语/写作/23-6-(一).md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 294.5,
+    "collapsed": true
   },
   "right": {
     "id": "b70bd4f5b3a55858",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "23-6-(一).md",
+                "file": "英语/写作/23-6-(一).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "23-6-(一).md",
+                "file": "英语/写作/23-6-(一).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "23-6-(一).md"
+                "file": "英语/写作/23-6-(一).md"
               }
             }
           },
@@ -171,8 +172,11 @@
   },
   "active": "25934d66a79e69a7",
   "lastOpenFiles": [
+    "英语/日常积累/Vocabulary & Grammar.md",
+    "英语/写作",
+    "英语/日常积累/Band-6.md",
+    "英语/写作/23-6-(一).md",
     "公共政策.md",
-    "23-6-(一).md",
     "英语/日常积累/China Daily/Improving key indicators signal positive outlook for China's economy.md",
     "英语/日常积累/China Daily/An unexpected reencounter warms Xi's visit to Hungary.md",
     "数据结构/树.md",
@@ -188,15 +192,12 @@
     "数据结构/图.md",
     "摘录/史记（最爱读国学书系）.md",
     "英语/日常积累/大英赛.md",
-    "英语/日常积累/Band-6.md",
-    "英语/日常积累/Vocabulary & Grammar.md",
     "高数A2/第一类曲面积分.md",
     "高数A2/第二类曲面积分.md",
     "().md",
     "Java学习/ArrayList.md",
     "Java学习/面向对象/抽象.md",
     "Java学习/面向对象/多态.md",
-    "离散数学/命题逻辑.md",
     "英语/日常积累/China Daily",
     "Vue",
     "高数A2",
