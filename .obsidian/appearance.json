@@ -4,7 +4,7 @@
   "textFontFamily": "宋体,微软雅黑",
   "monospaceFontFamily": "Consolas",
   "baseFontSizeAction": true,
-  "baseFontSize": 16,
+  "baseFontSize": 15,
   "theme": "obsidian",
   "enabledCssSnippets": []
 }
