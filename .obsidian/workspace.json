@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0f5d39eb983f868c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "异常处理和文本IO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "英语/写作/23-6-(一).md",
+                "file": "异常处理和文本IO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "英语/写作/23-6-(一).md",
+                "file": "异常处理和文本IO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "英语/写作/23-6-(一).md"
+                "file": "异常处理和文本IO.md"
               }
             }
           },
@@ -170,12 +182,13 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "25934d66a79e69a7",
+  "active": "0f5d39eb983f868c",
   "lastOpenFiles": [
+    "英语/写作/23-6-(一).md",
+    "异常处理和文本IO.md",
     "英语/日常积累/Vocabulary & Grammar.md",
     "英语/写作",
     "英语/日常积累/Band-6.md",
-    "英语/写作/23-6-(一).md",
     "公共政策.md",
     "英语/日常积累/China Daily/Improving key indicators signal positive outlook for China's economy.md",
     "英语/日常积累/China Daily/An unexpected reencounter warms Xi's visit to Hungary.md",

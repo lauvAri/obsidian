@@ -1,10 +1,10 @@
 {
   "accentColor": "",
   "interfaceFontFamily": "微软雅黑",
-  "textFontFamily": "Inter,微软雅黑",
+  "textFontFamily": "微软雅黑",
   "monospaceFontFamily": "Consolas",
   "baseFontSizeAction": true,
   "baseFontSize": 15,
-  "theme": "moonstone",
+  "theme": "obsidian",
   "enabledCssSnippets": []
 }
