@@ -56,9 +56,6 @@ There's no shame in not being at the top of the hierarchy.
 You were opening a bottle of champagne and the cork exploded in your face.
 ### Tilt
 He tilted back in his chair and stuck his hands in his pockets.
-#### Liable
-You are liable to get some horrible skin disease.
-Break one of these rules and you are liable to end up dead.
 ### Liability
 a limited liability corporation 有限责任公司
 become a liability 成为累赘
@@ -235,3 +232,27 @@ raffle
 scrap
 
 
+
+
+- consent
+	- 同意，许可 n v
+	- Silence must not always be read as **consent**.
+	- 不要总是将沉默理解为同意。
+	- **consent to do** 同意做某事
+	- **consent to something** 同意某事
+- fuss
+	- make a fuss 小题大做 ; 大惊小怪
+	- fuss about 计较 ; 大惊小怪
+- rein
+	- We need to **rein** back public spending.
+	- 我们需要严格控制公共开销
+	- Many people have begun looking for long-term ways to **rein** in spending.
+	- 很多人已经开始寻找控制开支的长远方式。
+	- **rein in 对……严加控制，加强管理**
+- liable
+	- be liable to 易 ; 易于 ; 易患 ; 易受
+		- The bridge is **liable** to collapse at any moment.
+		- 那座桥随时可能坍塌。
+	- be liable for 对 ; 负责 ; 对有责任 ; 对于
+		- You will be **liable** for any damage caused.
+		- 你必须对造成的任何损失负赔偿责任。
