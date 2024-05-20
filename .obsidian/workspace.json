@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "925924553f97e980",
+        "id": "d9257e5b2da0e8cb",
         "type": "tabs",
         "children": [
           {
-            "id": "cf380b76e4041a0c",
+            "id": "640f65bf47486eac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "英语/日常积累/Vocabulary & Grammar.md",
+                "file": "高数A2/曲线曲面积分/第一类曲面积分.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "英语/日常积累/Vocabulary & Grammar.md",
+                "file": "高数A2/曲线曲面积分/第一类曲面积分.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "英语/日常积累/Vocabulary & Grammar.md",
+                "file": "高数A2/曲线曲面积分/第一类曲面积分.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "英语/日常积累/Vocabulary & Grammar.md"
+                "file": "高数A2/曲线曲面积分/第一类曲面积分.md"
               }
             }
           },
@@ -157,35 +156,36 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "c8a6ef8b60c3b2c1",
+  "active": "640f65bf47486eac",
   "lastOpenFiles": [
-    "英语/日常积累/Band-6.md",
-    "数据结构/排序.md",
-    "数据结构/线性表.md",
+    "高数A2/曲线曲面积分/斯托克斯公式.md",
+    "未命名.md",
+    "高数A2/曲线曲面积分/格林公式.md",
+    "高数A2/曲线曲面积分/第一类曲面积分.md",
+    "高数A2/曲线曲面积分",
+    "高数A2/曲线曲面积分/第二类曲线积分.md",
+    "高数A2/曲线曲面积分/第二类曲面积分.md",
+    "高数A2/曲线曲面积分/高斯公式.md",
+    "高数A2/曲线曲面积分/第一类曲线积分.md",
+    "Vue/创建项目.md",
+    "Vue/setup.md",
+    "Vue/模板语法.md",
+    "张开的曲线的面积分之间的关系.md",
+    "离散数学/命题逻辑.md",
     "数据结构/查找.md",
-    "数据结构/哈夫曼树.md",
     "数据结构/栈.md",
-    "数据结构/队列.md",
+    "数据结构/未命名.md",
     "数据结构/二叉树.md",
+    "数据结构/哈夫曼树.md",
+    "数据结构/基本概念.md",
     "数据结构/树.md",
     "数据结构/图.md",
-    "数据结构/基本概念.md",
-    "公共政策.md",
-    "英语/写作/23-6-(一).md",
-    "英语/日常积累/大英赛.md",
-    "Java学习/异常处理和文本IO.md",
-    "Java学习/ArrayList.md",
+    "数据结构/排序.md",
+    "数据结构/队列.md",
+    "JavaScript/入门/作用域.md",
     "英语/日常积累/Vocabulary & Grammar.md",
+    "英语/日常积累/翻译translation",
     "英语/写作",
-    "英语/日常积累/China Daily/Improving key indicators signal positive outlook for China's economy.md",
-    "英语/日常积累/China Daily/An unexpected reencounter warms Xi's visit to Hungary.md",
-    "高数A2/格林公式.md",
-    "公共关系案例/”丰县生育八孩女子“事件.md",
-    "Vue/创建项目.md",
-    "Vue/模板语法.md",
-    "Vue/setup.md",
-    "直接插入排序.md",
-    "摘录/史记（最爱读国学书系）.md",
     "英语/日常积累/China Daily",
     "Vue",
     "高数A2",
@@ -204,7 +204,6 @@
     "摘录/文学",
     "Untitled.canvas",
     "大英赛",
-    "英汉笔译",
-    "translation"
+    "英汉笔译"
   ]
 }
