@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a9a794590e1e99ce",
+        "id": "14cc6dafb22ca72c",
         "type": "tabs",
         "children": [
           {
-            "id": "9f764f93f222d97a",
+            "id": "9badd4cc652c8f2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高数A2/曲线曲面积分/斯托克斯公式.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b01eedd13c43c9bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "重积分的换元法.md",
+                "file": "高数A2/曲线曲面积分/通量与散度.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 294.5,
+    "collapsed": true
   },
   "right": {
     "id": "b70bd4f5b3a55858",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "重积分的换元法.md",
+                "file": "高数A2/曲线曲面积分/通量与散度.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "重积分的换元法.md",
+                "file": "高数A2/曲线曲面积分/通量与散度.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "重积分的换元法.md"
+                "file": "高数A2/曲线曲面积分/通量与散度.md"
               }
             }
           },
@@ -169,17 +157,21 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "b01eedd13c43c9bb",
+  "active": "9badd4cc652c8f2a",
   "lastOpenFiles": [
+    "高数A2/重积分/重积分的换元法.md",
     "高数A2/曲线曲面积分/斯托克斯公式.md",
-    "重积分的换元法.md",
-    "高数A2/曲线曲面积分/格林公式.md",
-    "高数A2/曲线曲面积分/高斯公式.md",
+    "未命名.canvas",
+    "高数A2/曲线曲面积分/通量与散度.md",
+    "高数A2/微分方程",
     "高数A2/曲线曲面积分/第二类曲面积分.md",
-    "高数A2/曲线曲面积分/第一类曲面积分.md",
-    "testCallout.md",
     "高数A2/曲线曲面积分/第二类曲线积分.md",
+    "高数A2/曲线曲面积分/第一类曲面积分.md",
     "高数A2/曲线曲面积分/第一类曲线积分.md",
+    "高数A2/曲线曲面积分/高斯公式.md",
+    "高数A2/曲线曲面积分/格林公式.md",
+    "高数A2/重积分",
+    "testCallout.md",
     "离散数学/命题逻辑.md",
     "离散数学/谓词逻辑.md",
     "note.md",
@@ -196,8 +188,6 @@
     "数据结构/未命名.md",
     "数据结构/二叉树.md",
     "数据结构/哈夫曼树.md",
-    "数据结构/基本概念.md",
-    "数据结构/树.md",
     "英语/日常积累/翻译translation",
     "英语/写作",
     "英语/日常积累/China Daily",
@@ -213,11 +203,8 @@
     "img/Pasted image 20240428103210.png",
     "img/Pasted image 20240428104655.png",
     "img/Pasted image 20240428112115.png",
-    "未命名.canvas",
     "img",
     "摘录/文学",
-    "Untitled.canvas",
-    "大英赛",
-    "英汉笔译"
+    "Untitled.canvas"
   ]
 }
