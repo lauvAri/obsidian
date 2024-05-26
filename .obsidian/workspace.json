@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a022d2342a7589d0",
+        "id": "14a3c48390dc5002",
         "type": "tabs",
         "children": [
           {
-            "id": "21f76e235baa5abd",
+            "id": "6c15c99efdcc38eb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "字符串和文本IO.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "字符串和文本IO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "字符串和文本IO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "字符串和文本IO.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,14 +149,27 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "21f76e235baa5abd",
+  "active": "6c15c99efdcc38eb",
   "lastOpenFiles": [
+    "Vue/setup.md",
+    "Vue/模板语法.md",
+    "Vue/创建项目.md",
+    "Java学习/文本IO.md",
+    "离散数学/谓词逻辑.md",
+    "公共政策.md",
+    "英语/英汉笔译/术语翻译.md",
+    "高数A2/微分方程/微分方程的基本概念.md",
+    "英语/英汉笔译/Translation.md",
+    "英语/英汉笔译/主题意义.md",
+    "英语/英汉笔译/术语.md",
+    "英语/英汉笔译/情感意义.md",
+    "英语/英汉笔译/亲密度.md",
+    "英语/英汉笔译/搭配意义.md",
+    "Java学习/ArrayList.md",
+    "Java学习/NumberFormatException.md",
     "Java学习/异常处理.md",
-    "字符串和文本IO.md",
-    "术语翻译.md",
     "高数A2/曲线曲面积分/习题课.md",
     "高数A2/曲线曲面积分/通量与散度.md",
-    "微分方程的基本概念.md",
     "高数A2/曲线曲面积分/斯托克斯公式.md",
     "高数A2/曲线曲面积分/格林公式.md",
     "高数A2/重积分/重积分的换元法.md",
@@ -174,21 +179,8 @@
     "高数A2/曲线曲面积分/第二类曲线积分.md",
     "高数A2/曲线曲面积分/第一类曲面积分.md",
     "高数A2/曲线曲面积分/第一类曲线积分.md",
-    "高数A2/曲线曲面积分/高斯公式.md",
     "高数A2/重积分",
-    "testCallout.md",
-    "离散数学/命题逻辑.md",
-    "离散数学/谓词逻辑.md",
-    "note.md",
-    "英语/日常积累/大英赛.md",
-    "Java学习/NumberFormatException.md",
     "高数A2/曲线曲面积分",
-    "Vue/创建项目.md",
-    "Vue/setup.md",
-    "Vue/模板语法.md",
-    "张开的曲线的面积分之间的关系.md",
-    "数据结构/查找.md",
-    "数据结构/栈.md",
     "英语/日常积累/翻译translation",
     "英语/写作",
     "英语/日常积累/China Daily",
